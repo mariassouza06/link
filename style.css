@@ -1,0 +1,116 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    body{
+        background-image: linear-gradient(rgb(143, 16, 228), #5c0596);
+    }
+
+    .cabeçalho{
+    color: rgb(11, 226, 29);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 20px;
+    }
+
+    .apresentaçao_trabalho{
+        background-color: White;
+        font-size: 25px;
+    display: flex;
+    justify-content: left;    
+    padding: -20%;
+   margin:  auto
+    }
+    
+    .texto1{
+       font-size: 25px;
+    }
+
+    .texto2{
+        font-size: 25px;
+     }
+
+    .titulo_apresentaçao_trabalho{
+    font-size: 35px;
+    color: rgb(11, 226, 29);
+    }
+
+    .imagem_arvore{
+        padding: 15%;
+        position: relative;
+        margin: -190px -100px 1500px -130px;
+        justify-content: baseline ;
+        display: flex;
+        width: 30%
+    }
+
+    .Titulo1{
+        font-size: 25px;
+        color: black
+    }
+   
+    .akat{
+        color: rgb(11, 226, 29);
+    
+    }
+
+    .Foto1{
+        width: 15%;
+    }
+   
+ .Semanas{
+    font-size: 25px;
+ }
+
+ .Foto2{
+    width:15%;
+ }
+
+ .Foto3{
+    width: 35%;
+ }
+
+ .Foto4{
+    width: 25%;
+    margin: 4px 50px 0px 150px;
+ }
+
+ .Foto5{
+    width: 55%;
+    margin: 4px 50px 0px 150px;
+ }
+ 
+ .Semana1{
+color: rgb(11, 226, 29);;
+font-size: 30px;
+ }
+
+ .Semanas2{
+    color: rgb(11, 226, 29);
+    font-size: 30px;
+ } 
+
+ .Semana3{
+    color: rgb(11, 226, 29);
+    font-size: 30px;
+ }
+
+ .Semana4{
+    color: rgb(11, 226, 29);
+    font-size: 30px;
+ }
